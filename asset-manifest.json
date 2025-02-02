@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MultiStepLogin/static/css/main.ed45311f.css",
+    "main.js": "/MultiStepLogin/static/js/main.0782e679.js",
+    "static/media/bg-sidebar-desktop.svg": "/MultiStepLogin/static/media/bg-sidebar-desktop.6918153f38678372ceb14496fda9664c.svg",
+    "static/media/icon-advanced.svg": "/MultiStepLogin/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/MultiStepLogin/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "static/media/icon-pro.svg": "/MultiStepLogin/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "index.html": "/MultiStepLogin/index.html",
+    "static/media/icon-arcade.svg": "/MultiStepLogin/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.ed45311f.css.map": "/MultiStepLogin/static/css/main.ed45311f.css.map",
+    "main.0782e679.js.map": "/MultiStepLogin/static/js/main.0782e679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed45311f.css",
+    "static/js/main.0782e679.js"
+  ]
+}
